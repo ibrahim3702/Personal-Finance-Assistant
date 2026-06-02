@@ -1,0 +1,57 @@
+date,merchant,amount,category
+2026-05-31,Whole Foods Market,-87.42,groceries
+2026-05-30,Shell Gas Station,-48.10,transport
+2026-05-29,Netflix,-15.99,entertainment
+2026-05-28,Starbucks,-6.75,food
+2026-05-27,Uber,-22.40,transport
+2026-05-26,Amazon,-54.99,shopping
+2026-05-25,Trader Joe's,-62.18,groceries
+2026-05-24,Chipotle,-13.50,food
+2026-05-23,Spotify,-9.99,entertainment
+2026-05-22,Costco,-184.55,groceries
+2026-05-20,CVS Pharmacy,-24.30,health
+2026-05-18,Apple iCloud,-2.99,bills
+2026-05-15,Verizon Wireless,-85.00,bills
+2026-05-15,Salary - Acme Corp,4250.00,income
+2026-05-14,Chevron,-52.80,transport
+2026-05-12,Best Buy,-899.00,shopping
+2026-05-10,DoorDash,-31.42,food
+2026-05-08,Whole Foods Market,-72.10,groceries
+2026-05-05,Comcast Internet,-79.99,bills
+2026-05-03,Planet Fitness,-24.99,health
+2026-05-01,Rent - 425 Oak St,-1850.00,bills
+2026-04-30,Netflix,-15.99,entertainment
+2026-04-29,Shell Gas Station,-44.20,transport
+2026-04-28,Trader Joe's,-58.40,groceries
+2026-04-27,Starbucks,-5.85,food
+2026-04-25,Target,-67.32,shopping
+2026-04-23,Spotify,-9.99,entertainment
+2026-04-22,Uber,-18.75,transport
+2026-04-20,Costco,-156.78,groceries
+2026-04-18,Apple iCloud,-2.99,bills
+2026-04-17,Olive Garden,-48.20,food
+2026-04-15,Verizon Wireless,-85.00,bills
+2026-04-15,Salary - Acme Corp,4250.00,income
+2026-04-12,Amazon,-39.99,shopping
+2026-04-10,Walgreens,-18.45,health
+2026-04-08,Whole Foods Market,-91.20,groceries
+2026-04-05,Comcast Internet,-79.99,bills
+2026-04-03,Planet Fitness,-24.99,health
+2026-04-01,Rent - 425 Oak St,-1850.00,bills
+2026-03-31,Delta Airlines,-412.60,transport
+2026-03-30,Netflix,-15.99,entertainment
+2026-03-28,Trader Joe's,-64.85,groceries
+2026-03-26,Uber,-26.30,transport
+2026-03-25,Chipotle,-14.20,food
+2026-03-23,Spotify,-9.99,entertainment
+2026-03-20,Costco,-142.30,groceries
+2026-03-18,Apple iCloud,-2.99,bills
+2026-03-17,Shell Gas Station,-46.50,transport
+2026-03-15,Verizon Wireless,-85.00,bills
+2026-03-15,Salary - Acme Corp,4250.00,income
+2026-03-12,Amazon,-78.45,shopping
+2026-03-10,CVS Pharmacy,-32.10,health
+2026-03-08,Starbucks,-7.20,food
+2026-03-05,Comcast Internet,-79.99,bills
+2026-03-03,Planet Fitness,-24.99,health
+2026-03-01,Rent - 425 Oak St,-1850.00,bills
